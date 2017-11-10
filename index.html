@@ -1,0 +1,50 @@
+<!doctype html>
+<!--http://statline.cbs.nl/StatWeb/publication/?PA=71450ned-->
+<meta charset=utf8>
+<head>
+	<title>@leoniesmits</title>
+	<link rel="shortcut icon" type=image/x-icon href=data:image/x-icon;,>
+	<link rel="stylesheet" href="index.css">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+	<meta content=width=device-width,initial-scale=1 name=viewport>
+</head>
+<body>
+	<div id="main-content">
+		<div id="notes">
+			<h1>Young Europeans living with their parents</h1>
+			<p>20 to 29 year-olds in 2007 to 2013.</p>
+		</div>
+		<div class="selections">
+			<div class="comparisons">
+			<h3>Compare</h3>
+					<!-- <option class="button compare current" id="age">Levensverwachting</option>
+					<option class="button compare" id="poverty">Armoedecijfer</option>
+					<option class="button compare" id="employment">Werkgelegenheidsgraad</option> -->
+					<!-- <div class="button" value="education" data-val="ValueED">Universitair onderwijs</div> -->
+			</div>
+			<div class="genders">
+			<h3>Geslacht</h3>
+				<select class="genderSection">
+					<option class="button gender current" value="Total">Totaal</option>
+					<option class="button gender" value="Males">Mannen</option>
+					<option class="button gender" value="Females">Vrouwen</option>
+				</select>
+			</div>
+			<div class="years">
+				<h3>Jaren</h3>
+				<select class="yearSection">
+					<option class="button year" id="year" value="2008">2008</option>
+					<option class="button year" id="year"  value="2009">2009</option>
+					<option class="button year" id="year"  value="2010">2010</option>
+					<option class="button year" id="year"  value="2011">2011</option>
+					<option class="button year" id="year"  value="2012">2012</option>
+					<option selected class="button year current" id="year"  value="2013">2013</option>
+				</select>
+			</div>
+		</div>
+	</div>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="index.js"></script>
+</body>
