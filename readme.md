@@ -31,6 +31,13 @@ Vergeleken met |		Werkgelegenheid, armoede, onderwijs en 							leeftijdsverwach
 #### Werkgelegenheid 
 Het eerste onderwerp dat ik verbind aan het thuis wonen van jongeren is werkgelegenheid. Hiermee kan ik niet alleen de economische situatie van een land begrijpen, maar ook zien hoeveel invloed het hebben van een baan heeft op jongeren. Het hebben van een baan kan duiden op een goede economie waarin studenten/afgestudeerden snel een baan vinden, maar het kan ook betekenen dat jongeren niet kunnen studeren of noodgedwongen een baan zoeken. Dit inzicht is vooral interessant in verband met meerdere factoren, zodat een duidelijker en realistischer beeld wordt gegeven van de situatie.
 
+Gemeten | Resultaat
+--- | ---
+Onderwerp | Percentage jongeren dat werkzaam is
+Groep	|	20 - 29 jarigen per Europees land
+Variabelen |	Geslacht / Land / Jaartal
+Vergeleken met | Thuiswonende jongeren
+
 #### Levensverwachting 
 
 Het tweede onderwerp waarnaar ik heb gezocht is gezondheid. Dit heb ik gemeten met de leeftijdsverwachting van een land. Welzijn is moeilijk te meten, maar op deze manier kan de gebruiker toch een beeld krijgen van de gezondheid van de onderzochte groep mensen. De leeftijdsverwachting is niet gebaseerd op de leeftijdsgroep, maar op hoe oud de gemiddelde mens wordt, die in het jaar van meting geboren is. Dus in 2007 is de leeftijdsverwachting die van baby’s < 1 jaar.
