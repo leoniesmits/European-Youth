@@ -5,7 +5,9 @@
 ## ***Short description***
 As part of Project Information Design, I made this interactive data visualisation about young Europeans living with their parents and their education, poverty, life expectancy and employment rates.
 
-https://projects.invisionapp.com/m/share/36EEBGKVN#/263047567
+The [scatterplot at Gapminder](https://www.gapminder.org/tools/) was the inspiration for this project.
+
+> Another project I did with this data is the following [invisionapp](https://projects.invisionapp.com/m/share/36EEBGKVN#/263047567)
 
 _As this was a school assignment of Hogeschool van Amsterdam, the following info will be in dutch._
 
